@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.RumahBotolApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item> <item name="colorSecondary">@color/secondary_gold</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:colorBackground">@color/background_gray</item>
+    </style>
+
+    <style name="Theme.RumahBotolApp" parent="Base.Theme.RumahBotolApp" />
+</resources>
