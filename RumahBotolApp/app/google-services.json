@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304823895255",
+    "project_id": "rumah-botol",
+    "storage_bucket": "rumah-botol.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304823895255:android:317a715c2df4fb4ae69c92",
+        "android_client_info": {
+          "package_name": "com.karangtaruna.rumahbotol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeybYxmZMNMGTRwX6xP-FqeafWWxkxKwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
